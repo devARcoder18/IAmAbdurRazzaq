@@ -16,7 +16,7 @@
 <!--       Replace YOUR_GITHUB_USERNAME with your actual username  -->
 <!-- ============================================================ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/devARcoder18">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </a>
 &nbsp;
@@ -29,7 +29,7 @@
 <!--       Replace YOUR_PORTFOLIO_LINK with your portfolio URL    -->
 <!-- ============================================================ -->
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://devarcoder.vercel.app/starting">
   <img src="https://img.shields.io/badge/Portfolio-LIVE-A78BFA?style=for-the-badge&logo=vercel&labelColor=0D1117" />
 </a>
 
@@ -271,13 +271,13 @@ const abdurRazzaq = {
 <!--   Replace YOUR_GITHUB_USERNAME in all stat card URLs below   -->
 <!-- ============================================================ -->
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=devARcoder18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=94A3B8&stroke=0D1117" />
+<img width="68%" src="https://streak-stats.demolab.com/?user=devARcoder18&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=94A3B8&stroke=0D1117" />
 
 <br/><br/>
 
@@ -299,7 +299,7 @@ const abdurRazzaq = {
 <!--       Replace YOUR_GITHUB_USERNAME in the URL below          -->
 <!-- ============================================================ -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area_color=7C3AED&area=true&hide_border=true&custom_title=Abdur%20Razzaq%27s%20Contribution%20Graph%20—%20Every%20Commit%20Counts)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devARcoder18&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area_color=7C3AED&area=true&hide_border=true&custom_title=Abdur%20Razzaq%27s%20Contribution%20Graph%20—%20Every%20Commit%20Counts)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -347,21 +347,21 @@ const abdurRazzaq = {
 <!--        Replace all YOUR_... placeholders below               -->
 <!-- ============================================================ -->
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://devarcoder.vercel.app/starting">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-A78BFA?style=for-the-badge&logo=vercel&labelColor=0D1117" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/devARcoder18">
   <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/devarcoder">
   <img src="https://img.shields.io/badge/LinkedIn-Abdur_Razzaq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:devarcoder789@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-YOUR__EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
