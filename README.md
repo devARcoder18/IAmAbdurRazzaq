@@ -77,7 +77,7 @@ const abdurRazzaq = {
     "🛒 Scalable e-commerce platform with admin dashboard",
     "⚡ Real-time web apps with WebSocket integration",
     "📐 Mastering Clean Architecture & API Design Patterns",
-    "🌐 Full-stack Next.js apps with SSR & ISR",
+    "🌐 Full-stack Next.js apps with SSR & ISR", 
   ],
 
   // ── Motto ─────────────────────────────────────────────
